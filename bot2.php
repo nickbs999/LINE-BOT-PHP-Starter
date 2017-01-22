@@ -39,4 +39,4 @@ if (!is_null($events['events'])) {
 		}
 	}
 }
-echo 'OK BOT2 Test';
+echo 'OK BOT2';
