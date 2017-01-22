@@ -44,6 +44,5 @@ if (!is_null($events['events'])) {
 		}
 	}
 }
-echo 'Auto reply by Nick:' . "\n" . '$result' . ' test' . "\r\n";;
+echo 'Auto reply by Nick:' . "\n" . '$result' . ' test' . "\r\n";
 
-?>
