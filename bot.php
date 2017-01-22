@@ -40,9 +40,9 @@ if (!is_null($events['events'])) {
 			$result = curl_exec($ch);
 			curl_close($ch);
 
-			echo 'Auto reply by Nick:' . "\n" . $result . ' test' . "\r\n";
+			echo 'Auto reply by Nick: ' . $result . "\r\n";
 		}
 	}
 }
-echo 'Auto reply by Nick:' . "\n" . '$result' . ' test' . "\r\n";
+echo 'OK';
 
