@@ -1,5 +1,3 @@
-<?php
-echo "
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
@@ -19,6 +17,3 @@ body {
 </body>
 </html>
 
-
-Which will make your page look like this...
-";
