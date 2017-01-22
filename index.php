@@ -14,7 +14,7 @@ body {
 </head>
 <body>
 <div class="img"><img src="Under_Construction_Sign.jpg" alt="Under Construction"></div>
-<div><font size="10" color="red"><b>Page Under Construction</b></font></div>
+<div><font size="10" color="red"><center><b>Page Under Construction</b></center></font></div>
 </body>
 </html>
 
